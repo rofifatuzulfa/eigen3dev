@@ -32,4 +32,7 @@ A set of high-quality React components. An enterprise-class UI design language a
 </ol>
 
 <h5>Here are the trends of the three styling frameworks :</h5>
+<div>
+<img src='https://miro.medium.com/max/1400/1*JwsbjVfNKuKuexQ9lxMkbQ.png' />
+</div>
 
